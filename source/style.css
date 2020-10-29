@@ -1,0 +1,23 @@
+.container{
+	margin: 5% auto auto auto;
+	width: 60%;
+}
+
+.txt {
+	color: #000080;
+  	font-size: 200%;
+  	font-family: Arial;
+  	text-align: center;
+	border-color: #000080;
+	
+	text-align: left;
+}
+
+.b {
+	margin: auto auto -10% -10%;
+}
+
+.links {
+	width: 10%;
+	margin: -15% auto auto 5%;
+}
